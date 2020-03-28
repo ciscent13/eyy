@@ -1,1 +1,2 @@
-// #guadalupee
+// hago barras 
+
