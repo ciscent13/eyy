@@ -1,15 +1,11 @@
-// hago barras 
+#include<iostream>
 
 
 
+using namespace std;
 
+void main()
+{
+	cout << "hola mundo";
+}
 
-
-
-
-
-
-
-
-
-// eyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
